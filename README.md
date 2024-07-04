@@ -1,11 +1,13 @@
 # Calculadora de Índice de Massa Corporal (IMC)
 
-<div>
+<div href='https://joaoandrejs.github.io/imc-calculadora/'>
   <img width='400px' alt='Page 1' src='https://i.postimg.cc/0Q1HXVRw/Screenshot-2024-02-29-Calculadora-IMC.png' />
   <img width='400px' alt='Page 2' src='https://i.postimg.cc/FF0k8y6C/image.png' />
 </div>
 
 Esta é uma simples calculadora de Índice de Massa Corporal (IMC) desenvolvida utilizando HTML, CSS e Js
+
+> [Veja funcionando aqui](https://joaoandrejs.github.io/imc-calculadora/)
 
 ## Como Funciona
 
