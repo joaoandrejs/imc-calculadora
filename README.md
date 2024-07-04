@@ -21,6 +21,7 @@ A Calculadora de IMC permite aos usuários inserir sua altura e peso e, em segui
 
 ## Como Usar
 
+- [Entre no site por aqui](https://joaoandrejs.github.io/imc-calculadora/) ou:
 1. Clone este repositório em sua máquina local.
 2. Abra o arquivo `index.html` em um navegador da web.
 3. Insira sua altura e peso nos campos de entrada.
